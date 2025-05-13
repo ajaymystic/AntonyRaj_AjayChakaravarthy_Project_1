@@ -13,7 +13,7 @@
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ajaymystic/Multimedia_Authoring1_Selection-PseudoSelectors_HW-3.git
+   git clone https://github.com/ajaymystic/AntonyRaj_AjayChakaravarthy_Project_1.git
    ```
 2. Open the `typography.html` file in any web browser.
 
@@ -29,4 +29,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-🛠️ **Enjoy Typogrphy Build!** 🚀
+🛠️ **Enjoy Typogrphy and Folder Structure Build!** 🚀
